@@ -59,6 +59,6 @@ The model uses a **Dual-Path Feature Fusion** approach:
 ---
 
 ## 👨‍🔬 Author
-**[Chinedu Emmanuel Mbonu]** *Deep Learning Researcher / AI Developer*
+**[Chinedu Emmanuel Mbonu]** *AI Engineer/Researcher*
 
 ---
