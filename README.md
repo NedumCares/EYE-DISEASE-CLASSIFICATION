@@ -49,9 +49,7 @@ The model uses a **Dual-Path Feature Fusion** approach:
         nn.ReLU(),
         nn.Linear(in_features // 16, in_features),
         nn.Sigmoid()
-    )
-    ```
-
+    
 
 ## 📊 Results Summary
 * **Cataract:** ~1.00 F1-Score
