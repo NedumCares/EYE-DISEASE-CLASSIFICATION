@@ -18,7 +18,7 @@ This repository contains a state-of-the-art deep learning pipeline for the multi
 ## 📸 Dataset Representation
 The model is trained on a balanced dataset of retinal fundus images. Below are representative samples from each diagnostic class:
 
-![Retinal Samples](EYESAMPLECLASS.jpg)
+![Retinal Samples](EYESAMPLECLASS.png)
 *Figure 1: Representative samples showing (left to right) Cataract, Diabetic Retinopathy, Glaucoma, and Normal retinal conditions.*
 
 ---
